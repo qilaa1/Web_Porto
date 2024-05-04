@@ -1,4 +1,12 @@
 
+@media screen and (max-width: 768px) {
+    /* Aturan CSS untuk ukuran layar di bawah 768px */
+}
+
+@media screen and (max-width: 576px) {
+    /* Aturan CSS untuk ukuran layar di bawah 576px */
+}
+
 *{
     padding: 0;
     margin: 0;
